@@ -39,6 +39,7 @@ Features of our Stack Overflow Clone are as follows:
 
 ## Top-level directory structure
 
+```bash
  ├── client                   # Frontend React.js directory
  │   ├── public              # Public assets for the React app (images, etc.)
  │   ├── src                 # React application source code
@@ -58,11 +59,11 @@ Features of our Stack Overflow Clone are as follows:
  │   └── package.json        # Node.js package information
  ├── .gitignore
  └── README.md
+```
 
-<div align="center">
-<img src="https://shorturl.at/9t2Se" alt="mvc architecture" height="400"/>
-</div>
-<br/>
+![mvp](https://github.com/user-attachments/assets/c476a63c-cb22-45c1-a6f6-5d1f566afeb4)
+
+
 
 ## Screenshots of the project
 
@@ -73,10 +74,10 @@ Features of our Stack Overflow Clone are as follows:
   </tr>
   <tr>
     <td>
-   <img src="https://shorturl.at/lb2V3" border="0">
+   <img src="https://i.ibb.co/gM7xXWr/screely-1692895310281.png" border="0">
     </td>
         <td>
-<img src="https://shorturl.at/uajd6" border="0"></td>
+<img src="https://i.ibb.co/t2mPvSw/screely-1692895676919.png" alt="screely-1677925947288" border="0"></td>
 
   </tr>
 </table>
@@ -87,9 +88,49 @@ Features of our Stack Overflow Clone are as follows:
   </tr>
   <tr>
     <td>
-<img src="https://shorturl.at/ReXsI" border="0"></td>
-<td><img src="https://shorturl.at/IfIS3" alt="screely-1677925542185" border="0">
+<img src="https://i.ibb.co/vd9TjxS/screely-1692895003181.png" alt="screely-1677924790571" border="0"></td>
+<td><img src="https://i.ibb.co/nc7vgn1/screely-1692894712324.png" alt="screely-1677925542185" border="0">
 </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>Question Detail Screen</td>
+    <td>Posting an Answer Screen</td>
+  </tr>
+  <tr>
+    <td>
+<img src="https://i.ibb.co/M1n4dHf/screely-1692897031364.png" alt="screely-1677925947288" border="0"></td>
+<td>
+   <img src="https://i.ibb.co/TmSPn3k/screely-1692897192656.png" border="0">
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>All Users Screen</td>
+    <td>Ask a Question Screen</td>
+  </tr>
+  <tr>
+<td>
+   <img src="https://i.ibb.co/Bym2PSg/screely-1692896520603.png" border="0">
+    </td>
+<td>
+   <img src="https://i.ibb.co/YB4VDgq/screely-1692896859187.png" border="0">
+    </td>
+
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>User Profile Screen</td>
+    <td>Other User's Profile Page</td>
+  </tr>
+  <tr>
+     <td>
+<img src="https://i.ibb.co/3kPJWtS/screely-1692895544650.png" border="0"></td>
+    <td>
+<img src="https://i.ibb.co/LRv0rQh/screely-1692896637899.png" alt="screely-1677925947288" border="0"></td>
   </tr>
 </table>
 
@@ -100,7 +141,7 @@ To setup the project on your local environment, follow the given steps:
 Clone the repository
 
 ```bash
-  git clone {repo_url}
+  git clone https://github.com/rinaldypasya/stack-overflow-clone.git
 ```
 
 ### Frontend
